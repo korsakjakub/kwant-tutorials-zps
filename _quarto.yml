@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Kwant tutorials ZPS"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/korsakjakub/kwant-tutorials-zps
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+
+

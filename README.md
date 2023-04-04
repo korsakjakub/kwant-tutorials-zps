@@ -7,5 +7,5 @@ This repository contains the source code for the [Kwant](https://kwant-project.o
 - Jakub Korsak
 - Paweł Sidorczak (best rank)
 
-The tutorials had been exported to a github-pages website (see [website url](https://korsakjakub.github.io/kwant-tutorials-zps/)) and can be freely tested and explored via cloud notebooks (ex. Google Collab)
+The tutorials are published to Quarto (see [website url](https://korsakjakub.quarto.pub/quarto-kwant-tutorials-zps/)) and can be freely tested and explored via cloud notebooks (ex. Google Collab)
 
