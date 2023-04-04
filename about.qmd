@@ -9,8 +9,6 @@ about:
       href: https://github.com/korsakjakub/kwant-tutorials-zps
 ---
 
-# About Us
-
 These tutorials were made by
 
 - Paweł Sidorczak
