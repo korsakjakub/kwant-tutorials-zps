@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/korsakjakub/kwant-tutorials-zps
+---
+
+# About Us
+
+These tutorials were made by
+
+- Paweł Sidorczak
+- Tomek Białecki
+- Krystian Jabłonowski
+- Jakub Korsak
+
+from the Faculty of Physics, University of Warsaw.
