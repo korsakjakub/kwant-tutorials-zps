@@ -1,5 +1,5 @@
 ---
-title: "quarto-kwant-tutorials-zps"
+title: "Tutorials for the Kwant python library"
 listing:
   contents: posts
   sort: "date desc"
