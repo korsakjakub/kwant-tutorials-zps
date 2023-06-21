@@ -12,7 +12,7 @@ There are three main aims of this project, namely:
 
 1. to learn about quantum transport in electronic devices,
 2. to study meaningful physical examples of such systems,
-3. to model the electronic structure using packet KWANT. 
+3. to model the electronic structure using packet Kwant. 
 
 The project starts with a self-study group to learn about the physical principles. Meanwhile, we will address some simple and educational cases by modeling in Kwant. The suggested tasks are transport in GaAs nanowire with a quantum dot, transmission through an electrostatically defined constriction, and a one-dimensional dimerized chain of atoms (SSH model). As the project progresses, we will play with models encompassing topological properties, highly degenerate flat bands, or strong magnetic fields. The suggested systems to investigate are the ribbon of Haldane or Lieb models or a generic graphene-like structure. Ideally, the outcome will be a collection of notebooks introducing and explaining the ideas we have learned in the project.
 
